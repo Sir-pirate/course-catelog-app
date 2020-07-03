@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-durian-fruit-food-cempedak-ingredient-5df3c40a9779e3.1842416915762565226205.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
